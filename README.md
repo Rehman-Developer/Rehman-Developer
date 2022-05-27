@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 TES6
 TES7
 TES3
+TES6
