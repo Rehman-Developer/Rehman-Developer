@@ -33,6 +33,7 @@ sam02
 SAM3
 git1
 ISS1 - Fixed
+MYFD10 - FIXED
 FIXED
 MYB1
 REG 01
